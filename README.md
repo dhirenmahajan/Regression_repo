@@ -24,3 +24,14 @@ The process involves:
 
 Your output should resemble the following:
 
+Multiple Linear Regression using All features
+R2 score: 0.6008983115964333, MSE score: 0.5350149774449118
+
+Feature 0: R2 score: 0.4630810035698606, MSE score: 0.7197656965919478
+Feature 1: R2 score: 0.013185632224592903, MSE score: 1.3228720450408296
+Feature 2: R2 score: 0.024105074271276283, MSE score: 1.3082340086454287
+Feature 3: R2 score: -0.0011266270315772875, MSE score: 1.3420583158224824
+Feature 4: R2 score: 8.471986797708997e-05, MSE score: 1.3404344471369465
+Feature 5: R2 score: -0.00018326453581640756, MSE score: 1.340793693098357
+Feature 6: R2 score: 0.020368890210145207, MSE score: 1.3132425427841639
+Feature 7: R2 score: 0.0014837207852690382, MSE score: 1.3385590192298276
